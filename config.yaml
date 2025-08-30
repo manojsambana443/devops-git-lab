@@ -1,5 +1,5 @@
 filters:
-  - name: Manoj
+  - name: feature-a + feature-b
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
